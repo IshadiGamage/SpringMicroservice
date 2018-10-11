@@ -1,0 +1,5 @@
+com/pearson/nextgen/safeassignapi/configurations/SwaggerConfig.class
+com/pearson/nextgen/safeassignapi/services/testService.class
+com/pearson/nextgen/safeassignapi/SafeassignApiApplication.class
+com/pearson/nextgen/safeassignapi/controllers/SafeAssignController.class
+com/pearson/nextgen/safeassignapi/models/Person.class
